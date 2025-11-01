@@ -3,7 +3,8 @@
 # 🧾 **API REST — Gestión de Expedientes e Indicios**
 ### Universidad Mariano Gálvez de Guatemala — 2025
 
-![UMG Logo](https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_UMG.png)
+![UMG Logo](./captures/LogotipoUMG.png)
+
 
 **Curso:** 036 – Desarrollo Web  
 **Catedrático:** Ing. Carmelo Mayén  
@@ -66,12 +67,13 @@ api-expedientes/
 
 ```env
 PORT=3000
-DB_SERVER=localhost\SQLEXPRESS
+DB_SERVER=PABLOPC
 DB_USER=sa
-DB_PASSWORD=12345
+DB_PASSWORD=Admin1234
 DB_NAME=db_expedientes
 DB_PORT=1433
 JWT_SECRET=mi_clave_secreta_segura
+
 ```
 
 ---
